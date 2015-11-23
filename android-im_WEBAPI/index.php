@@ -1,26 +1,4 @@
 <?php
-/****************************************
-*		Server of Android IM Application
-*
-*		Author: ahmet oguz mermerkaya
-* 		Email: ahmetmermerkaya@hotmail.com
-*		Editor: Dominik Pirngruber
-*		Email: d.pirngruber@gmail.com
-* 		Date: Jun, 25, 2013   	
-* 	
-*		Supported actions: 
-*			1.  authenticateUser
-*			    if user is authentiated return friend list
-* 		    
-*			2.  signUpUser
-* 		
-*			3.  addNewFriend
-* 		
-* 			4.  responseOfFriendReqs
-*
-*			5.  testWebAPI
-*************************************/
-
 
 //TODO:  show error off
 
