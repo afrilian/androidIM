@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AndroidIM
 =========
 
@@ -48,3 +49,6 @@ AndroidIM
 ###Support:
 
     Support now is given by Pirngruber Dominik (d.pirngruber@gmail.com)
+=======
+# androidIM
+>>>>>>> f11168241570ec4ca61f6e3511ab3b9727f77db6
