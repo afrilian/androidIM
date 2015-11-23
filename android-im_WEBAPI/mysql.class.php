@@ -1,15 +1,4 @@
 <?php
-/************************************************
-*
-*   File Name: 	 mysql.php
-*   Begin: 		 Sunday, Dec, 23, 2005
-*   Author: 	 ahmet oðuz mermerkaya 	
-*   Email: 		 ahmetmermerkaya@hotmail.com
-*   Description: Class to connect mysql database
-*	Edit : 		 Sunday, Nov, 18, 2007
-*   Version: 	 1.1
-*
-***********************************************/ 
 
 class MySQL
 {	
