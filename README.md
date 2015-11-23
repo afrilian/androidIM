@@ -1,31 +1,4 @@
-<<<<<<< HEAD
 AndroidIM
-=========
-
-##Android Instant Messaging Application
-
-###VIL - Very Important Link's
-
-[V-City](http://www.v-city.at)<br/>
-[Demo-App PlayStore](https://play.google.com/store/apps/details?id=at.vcity.androidim)<br/>
-[Installation-Tutorial](https://github.com/Pirngruber/AndroidIM/wiki/Installation-Tutorial)
-
-
-
-
-###Features
-
-    User registration
-    User authentication
-    Adding a new friend by username
-    Approving a friend
-    Messaging with a friend in list
-    Shows online and offline users
-    Runs a background service in order to get messages even when the application is closed.
-    Uses notification area when a new message is received.
-    Quiting the application(kills the background service) 
-
-
 
 ###How to make it run:
 
@@ -45,10 +18,3 @@ AndroidIM
         
     Then run your application in Eclipse with ADT plugin.
     it can be learned how to install Android SDK and ADT plugin.
-
-###Support:
-
-    Support now is given by Pirngruber Dominik (d.pirngruber@gmail.com)
-=======
-# androidIM
->>>>>>> f11168241570ec4ca61f6e3511ab3b9727f77db6
